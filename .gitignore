@@ -1,0 +1,18 @@
+# PyInstaller artifacts
+dist/
+build/
+*.spec
+
+# Python bytecode and cache files
+__pycache__/
+*.pyc
+
+# Virtual environment directory
+.venv/
+venv/
+
+# Output folder from your script
+corrected/
+
+# Input video folder (optional, if you don't want to commit test videos)
+input_videos/
